@@ -1,0 +1,4 @@
+archetype
+=========
+
+WP Archetype
